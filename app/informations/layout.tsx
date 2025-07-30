@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Confusion entre Oxalya et Oxelya ?",
-  description: "Vous cherchiez notre agence web ? Vous êtes au bon endroit. Ne la confondez pas avec Oxalya !",
+  description: "Vous cherchiez notre agence web ? Vous êtes au bon endroit. Ne la confondez pas avec Oxalya ! Ou encore Oxelia et Oxalia. Avancons ensemble.",
   openGraph: {
     title: "Confusion entre Oxalya et Oxelya ?",
-    description: "Vous cherchiez notre agence web ? Vous êtes au bon endroit. Ne la confondez pas avec Oxalya !",
+    description: "Vous cherchiez notre agence web ? Vous êtes au bon endroit. Ne la confondez pas avec Oxalya ! Ou encore Oxelia et Oxalia. Avancons ensemble.",
     url: "https://www.oxalya.info/informations",
     siteName: "Oxalya",
     images: [
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Confusion entre Oxalya et Oxelya ?",
-    description: "Vous cherchiez notre agence web ? Vous êtes au bon endroit. Ne la confondez pas avec Oxalya !",
+    description: "Vous cherchiez notre agence web ? Vous êtes au bon endroit. Ne la confondez pas avec Oxalya ! Ou encore Oxelia et Oxalia. Avancons ensemble.",
     site: "@oxelyaFr",
     creator: "@oxelyaFr",
     images: ["https://www.oxalya.info/og-image.png"],

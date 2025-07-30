@@ -759,6 +759,9 @@ function Navigation() {
             </div>
           </div>
           <div className="hidden md:flex items-center space-x-8">
+            <Link href="/" className="text-gray-300 hover:text-orange-400 transition-colors">
+              Accueil
+            </Link>
             <Link href="/creation-site-web" className="text-gray-300 hover:text-orange-400 transition-colors">
               Création Site Web
             </Link>
