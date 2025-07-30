@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Oxalya - Développement Web et Solutions Digitales",
   description:
-    "Oxalya est votre partenaire de confiance pour tous vos projets web. Sites vitrine, e-commerce, applications web : découvrez nos services de développement web professionnels et sur mesure.",
+    "Oxalya est votre partenaire de confiance pour tous vos projets web. Sites vitrine, e-commerce, applications web.",
   openGraph: {
     title: "Oxalya - Développement Web Professionnel",
     description:
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     siteName: "Oxalya",
     images: [
       {
-        url: "https://oxalya.info/og-image.png",
+        url: "https://www.oxalya.info/og-image.png",
         width: 1200,
         height: 630,
         alt: "Oxalya - Développement Web",
@@ -29,11 +29,11 @@ export const metadata: Metadata = {
       "Solutions digitales professionnelles : sites vitrine, e-commerce, applications web. Oxalya, votre expert en développement web.",
     site: "@oxalya",
     creator: "@oxalya",
-    images: ["https://oxalya.info/og-image.png"],
+    images: ["https://www.oxalya.info/og-image.png"],
   },
-  metadataBase: new URL("https://oxalya.info"),
+  metadataBase: new URL("https://www.oxalya.info"),
   alternates: {
-    canonical: "https://oxalya.info",
+    canonical: "https://www.oxalya.info",
   },
   icons: {
     icon: "/favicon.ico",
@@ -77,10 +77,9 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "Oxalya",
-              url: "https://oxalya.info",
+              url: "https://www.oxalya.info",
               description:
                 "Oxalya est une entreprise de développement web spécialisée dans la création de sites internet modernes et performants. Nous accompagnons les entreprises dans leur transformation digitale.",
-              sameAs: ["https://oxelya.com"],
               serviceType: "Développement Web",
               areaServed: "France",
               hasOfferCatalog: {
